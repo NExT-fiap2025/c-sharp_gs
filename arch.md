@@ -151,3 +151,5 @@ GET /analytics/losses?region=XXXXX
 | **IoT / Physical Computing** | `iot-vision` ✅   | Python + MediaPipe            | Detecção visual + eventos          |
 
 ---
+
+<img src="./image.png"/>
